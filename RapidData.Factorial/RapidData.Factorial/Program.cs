@@ -10,6 +10,6 @@ namespace RapidData.Factorial
             MathLib mathLib = new MathLib(new ListFunctionStrategy());          
             Console.WriteLine(mathLib.SquareFactorial(200));                    
             Console.ReadLine();
-        }      
+        }
     }
 }
