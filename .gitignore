@@ -3,3 +3,6 @@
 ################################################################################
 
 /RapidData.Factorial/RapidData.Factorial/obj
+/.vs
+/RapidData.Factorial/.vs/RapidData.Factorial/v16
+/RapidData.Factorial/RapidData.Factorial/bin/Debug/netcoreapp3.1
