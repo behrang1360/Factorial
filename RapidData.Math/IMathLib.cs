@@ -1,7 +1,6 @@
-﻿
-using System.Numerics;
+﻿using System.Numerics;
 
-namespace RapidData.Factorial
+namespace RapidData.Math
 {
     public interface IMathLib
     {

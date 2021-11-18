@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Numerics;
-using System.Text;
 
-namespace RapidData.Factorial
+namespace RapidData.Math
 {
     public class ListFunctionStrategy : IMathLib
     {

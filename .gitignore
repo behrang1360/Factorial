@@ -6,3 +6,10 @@
 /.vs
 /RapidData.Factorial/.vs/RapidData.Factorial/v16
 /RapidData.Factorial/RapidData.Factorial/bin/Debug/netcoreapp3.1
+/RapidData.Factorial.Test/bin/Debug/netcoreapp3.1
+/RapidData.Factorial.Test/obj
+/RapidData.Math/bin/Debug/netcoreapp3.1
+/RapidData.Math/obj
+/RapidData.Math/.vs/RapidData.Math
+/RapidData.Math.Test/bin/Debug/netcoreapp3.1
+/RapidData.Math.Test/obj
